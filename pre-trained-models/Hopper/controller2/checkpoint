@@ -1,0 +1,2 @@
+model_checkpoint_path: "current"
+all_model_checkpoint_paths: "current"
